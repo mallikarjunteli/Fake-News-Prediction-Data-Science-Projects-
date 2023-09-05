@@ -1,2 +1,2 @@
-# Fake-News-Prediction-Data-Science-Projects-
+# Fake-News-Prediction-Data-Science-Machine-Learning-Projects-
 Data Science Projects
